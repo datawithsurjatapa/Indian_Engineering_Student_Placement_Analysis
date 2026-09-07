@@ -13,7 +13,7 @@ I worked on the project using **Python, PostgreSQL, SQL, and Power BI**. I start
 
 ## 📊 Dataset
 
-The dataset contains **15,000 student records** and **27 attributes** covering academic performance, technical skills, activities, and placement outcomes.
+The dataset contains **15,000 student records** and **25 attributes** covering academic performance, technical skills, activities, and placement outcomes.
 
 ### Key Variables
 
@@ -38,6 +38,14 @@ The dataset contains **15,000 student records** and **27 attributes** covering a
 - Extracurricular Activities
 - Placement Status
 - Package (LPA)
+
+---
+
+## Dataset Source
+
+**Source:** Kaggle  
+**Dataset:** Indian Engineering Student Placement Analysis  
+**Dataset Link:** [https://www.kaggle.com/datasets/vishwajeetchandole/indian-engineering-placement-dataset-2026]
 
 ---
 
