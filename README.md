@@ -43,9 +43,9 @@ The dataset contains **15,000 student records** and **25 attributes** covering a
 
 ## 📂 Dataset Source
 
-**Source:** Kaggle  
-**Dataset:** Indian Engineering Placement Dataset 2026 
-**Dataset Link:** [https://www.kaggle.com/datasets/vishwajeetchandole/indian-engineering-placement-dataset-2026]
+-**Source:** Kaggle  
+-**Dataset:** Indian Engineering Placement Dataset 2026
+-**Dataset Link:** [https://www.kaggle.com/datasets/vishwajeetchandole/indian-engineering-placement-dataset-2026]
 
 ---
 
